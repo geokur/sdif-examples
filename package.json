@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["di", "ioc", "sdif"],
+  "keywords": [
+    "di",
+    "ioc",
+    "sdif"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/geokur/sdif-examples.git"
@@ -14,6 +18,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sdif": "^1.0.2"
+    "sdif": "^1.0.5"
   }
 }
