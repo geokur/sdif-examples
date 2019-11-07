@@ -1,12 +1,16 @@
 {
-  "name": "di-example",
+  "name": "sdif-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "Examples for Simple Dependency Injection Framework",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["di", "ioc", "sdif"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geokur/sdif-examples.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
